@@ -1,0 +1,44 @@
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\appsettings.json
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.exe
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.deps.json
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.runtimeconfig.json
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.runtimeconfig.dev.json
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.dll
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\ref\Ch15 Spa Studio - New.dll
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.pdb
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.Views.dll
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\bin\Debug\net5.0\Ch15 Spa Studio - New.Views.pdb
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.csproj.AssemblyReference.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.AssemblyInfoInputs.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.AssemblyInfo.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.csproj.CoreCompileInputs.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.RazorAssemblyInfo.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.RazorAssemblyInfo.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\staticwebassets\Ch15 Spa Studio - New.StaticWebAssets.Manifest.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\staticwebassets\Ch15 Spa Studio - New.StaticWebAssets.xml
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\scopedcss\bundle\Ch15 Spa Studio - New.styles.css
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.TagHelpers.input.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.TagHelpers.output.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.RazorCoreGenerate.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Spa\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\Spa\Menu.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\User\Add.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.RazorTargetAssemblyInfo.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.RazorTargetAssemblyInfo.cs
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.Views.pdb
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.dll
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\ref\Ch15 Spa Studio - New.dll
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.pdb
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.genruntimeconfig.cache
+C:\Users\pk080\source\repos\New Spa Studio ch15\Ch15 Spa Studio - New\obj\Debug\net5.0\Ch15 Spa Studio - New.csproj.CopyComplete
